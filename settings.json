@@ -1,4 +1,3 @@
-
 {
   "name": "AFK Bot",
   "bot-account": {
@@ -7,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pahadi-fJiw.aternos.me",
-    "port": 33056,
+    "ip": "example.aternos.me",
+    "port": 75375,
     "version": "1.21.1"
   },
   "position": {
